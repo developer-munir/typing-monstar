@@ -1,0 +1,30 @@
+.blog-page {
+  background-image: url("./bg.png");
+  background-size: cover;
+  background-position: left top;
+  font-family: "Zilla Slab", serif;
+  color: #fff;
+}
+header h1{
+    text-align: center;
+    font-size: 3rem;
+    border-bottom: 2px solid;
+    padding: 0 0 20px 0;
+    color: red;
+}
+.blog-container{
+    padding-left:2rem;
+    padding-right:2rem;
+    margin-bottom: 20px;
+}
+.question{
+    font-size: 2rem;
+}
+div > p{
+    line-height: 1.6rem;
+}
+.footer{
+    text-align: center;
+    padding: 20px 0;
+    color: red;
+}
