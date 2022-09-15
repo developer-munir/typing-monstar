@@ -25,5 +25,7 @@ div > p{
 .footer{
     text-align: center;
     padding: 20px 0;
-    color: red;
+    color: #9dffad;
+    font-weight: 400;
+    letter-spacing: 0.1ch;
 }
